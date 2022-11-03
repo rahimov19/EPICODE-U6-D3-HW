@@ -22,6 +22,8 @@ body {
 
 .jumbotron {
   background-image: url(https://blog.pixlr.com/wp-content/uploads/2021/04/Pixlr-Blog-Header-4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #4500aa;
   text-shadow: 1px black;
 }
